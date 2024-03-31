@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.OutputDemo", "ConsoleApp.OutputDemo\ConsoleApp.OutputDemo.csproj", "{6F80ECBA-D932-46AB-A04E-C87C92562CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.OutputDemo", "ConsoleApp.OutputDemo\ConsoleApp.OutputDemo.csproj", "{6F80ECBA-D932-46AB-A04E-C87C92562CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.VariablesDemo", "ConsoleApp.VariablesDemo\ConsoleApp.VariablesDemo.csproj", "{3E0866D2-A2FF-4C0C-B38B-DACCF6845DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.VariablesDemo", "ConsoleApp.VariablesDemo\ConsoleApp.VariablesDemo.csproj", "{3E0866D2-A2FF-4C0C-B38B-DACCF6845DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.UserInputDemo", "ConsoleApp.UserInputDemo\ConsoleApp.UserInputDemo.csproj", "{B3565D72-AB34-4513-8562-D083B4BDFEE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3E0866D2-A2FF-4C0C-B38B-DACCF6845DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E0866D2-A2FF-4C0C-B38B-DACCF6845DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E0866D2-A2FF-4C0C-B38B-DACCF6845DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3565D72-AB34-4513-8562-D083B4BDFEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3565D72-AB34-4513-8562-D083B4BDFEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3565D72-AB34-4513-8562-D083B4BDFEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3565D72-AB34-4513-8562-D083B4BDFEE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
